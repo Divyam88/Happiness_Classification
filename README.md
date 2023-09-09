@@ -1,6 +1,8 @@
 # Happiness_Classification
 
 **Dataset**
+The dataset is taken from kaggle: https://www.kaggle.com/datasets/priyanshusethi/happiness-classification-dataset
+
 A feeling of happiness while self introspecting is the major reason we indulge in our hobbies and choose places to live.
 Data Dictionary:-
 
