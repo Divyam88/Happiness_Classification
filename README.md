@@ -1,6 +1,8 @@
 # Happiness_Classification
 
 **Dataset**
+
+
 The dataset is taken from kaggle: https://www.kaggle.com/datasets/priyanshusethi/happiness-classification-dataset
 
 
@@ -30,4 +32,6 @@ events = the availability of social community events
 happy = decision attribute (D) with values 0 (unhappy) and 1 (happy)
 
 **Model**
+
+
 A k-nearest neighbors (KNN) model is a type of supervised machine learning algorithm used for classification and regression tasks. The fundamental idea behind KNN is that objects (data points) that are similar are close to each other in a feature space. 
